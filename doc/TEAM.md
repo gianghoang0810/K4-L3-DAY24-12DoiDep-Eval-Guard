@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Từ Hoàng Giang – 2A202602363
 
 Ngày lab/deadline áp dụng: 12/10/2026, hạn nộp 23:59 — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: trưởng nhóm ghi SHA sau lần commit nội dung cuối
+Commit dùng để chấm: 80a7a45 (commit nội dung cuối; commit kế tiếp chỉ ghi dòng này)
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thêm/xóa rows để khớp nhóm thật; mẫu ba rows không ép nhóm phải có ba người.
